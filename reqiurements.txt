@@ -5,8 +5,4 @@ seaborn
 scikit-learn
 imbalanced-learn
 joblib
-<<<<<<< HEAD
 streamlit
-=======
-streamlit
->>>>>>> 7f27eaac903bb80c9470a3785974a24ab46d10d6
