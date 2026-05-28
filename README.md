@@ -28,3 +28,6 @@ Telco Customer Churn Dataset (Kaggle)
 ## Future Improvements
 - Power BI Dashboard
 - Customer Segmentation
+
+## To Run The Code
+- python -m streamlit run app.py
