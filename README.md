@@ -30,4 +30,8 @@ Telco Customer Churn Dataset (Kaggle)
 - Customer Segmentation
 
 ## To Run The Code
+<<<<<<< HEAD
 - python -m streamlit run app.py
+=======
+- python -m streamlit run app.py
+>>>>>>> 7f27eaac903bb80c9470a3785974a24ab46d10d6
