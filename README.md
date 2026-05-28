@@ -46,8 +46,8 @@ cd customer-churn-prediction
 pip install -r requirements.txt
 python -m streamlit run app.py
 
-##🚀 Live Demo
+## 🚀 Live Demo
 - https://customer-churn-prediction-xmhkdzrsxfqu24isjzbcnz.streamlit.app/
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 Deepak Mahto
 Aspiring Data Scientist | Machine Learning Enthusiast
