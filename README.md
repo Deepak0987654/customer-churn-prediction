@@ -26,6 +26,8 @@ Telco Customer Churn Dataset (Kaggle)
 - Low tenure customers churn more
 
 ## Future Improvements
-- Streamlit Deployment
 - Power BI Dashboard
 - Customer Segmentation
+
+## To Run The Code
+- python -m streamlit run app.py
